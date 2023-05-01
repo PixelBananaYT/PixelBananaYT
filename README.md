@@ -2,4 +2,4 @@
 - 👀 I’m interested in catoons and coding
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on games and art
-- 📫 How to reach me is my discord! It's Klopfgeist#5381
+- 📫 How to reach me is my discord! It's ChocolateChipToast#5381
